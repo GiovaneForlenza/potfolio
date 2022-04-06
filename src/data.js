@@ -1,9 +1,9 @@
 const data = [
-  // Restaurant Menu
+  // Recipe Book
   {
     id: "I9UYiWftXx",
     order: 1,
-    title: "Restaurant Menu",
+    title: "Recipe Book",
     dates: "May 2014 - September 2015",
     duties: [
       "Display a list of pre-selected recipes, with basic information in the home page.",
