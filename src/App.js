@@ -65,7 +65,6 @@ function App() {
           <div className="img">
             <img src={img} alt={title} />
           </div>
-          hello
           <a href={demoLink} target="_blank">
             <MdOpenInNew /> View Demo
           </a>
