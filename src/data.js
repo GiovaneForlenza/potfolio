@@ -15,6 +15,21 @@ const data = [
     githubLink: "https://github.com/GiovaneForlenza/recipe-book",
     img: "./images/restaurant-menu.png",
   },
+  {
+    id: "I9UYiWftXz",
+    order: 1,
+    title: "Movie List (WIP)",
+    dates: "May 2014 - September 2015",
+    duties: [
+      "Displays a selection of movies and TV Series from an external API (TheMovieDB)",
+      "User can toggle search for specific movies using the real time updated search bar and/or the genre selection",
+      "Each movie displays the title, the genres and which platform it's available to watch in Canada",
+    ],
+    company: "React",
+    demoLink: "https://best-movie-list-to-ever-exist.netlify.app/",
+    githubLink: "https://github.com/GiovaneForlenza/Movie-List",
+    img: "./images/movie-list-home.png",
+  },
   // Cocktail Selection
   {
     id: "YRO1t6KIgZ",
